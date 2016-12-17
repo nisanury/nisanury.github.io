@@ -1,0 +1,43 @@
+# Site settings
+title: Nisanur Yücel
+description: "Kişisel web sayfası."
+baseurl: ""
+url: "http://nisanury.github.io"
+# User settings
+username: Nisanur Yücel
+user_title: Bilgisayar Mühendisliği Öğrencisi
+twitter_username: niiisanur_
+github_username:  nisanury
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  - title: anasayfa
+    url: /
+  - title: yazılar
+    url: /posts
+  - title: seriler
+    url: /series
+  - title: etiketler
+    url: /tags
+  - title: hakkımda
+    url: /about
+# projects in header index
+projects:
+  - name: blog
+    url: https://github.com/nisanury/nisanury.github.io
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
