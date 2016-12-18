@@ -36,7 +36,7 @@ Akış şemaları, bir problemin çözümüne yönelik izlenecek adımların şe
 Her adımda birbirinden farklı şekiller kullanılır ve şekiller arasındaki ilişki oklar ile gösterilir.
 Akış şeması kodlanacak programın daha kolay çözümlenmesine yardımcı olur.  
 
-![](/assets/img/algo.png)  
+![](/assets/img/Algo.png)  
 
 
 **Örnek Akış Şeması:**  
