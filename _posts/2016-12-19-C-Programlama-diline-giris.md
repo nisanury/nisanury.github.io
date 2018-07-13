@@ -2,7 +2,7 @@
 layout: post
 title:  "C Programlama Diline Giriş"
 image: ''
-date: 2018-05-19 10:25:30
+date: 2018-07-13 10:25:30
 tags:
 - Programlama Dilleri
 description: 'Programlama Dillerine giriş.'
