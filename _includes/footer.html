@@ -1,5 +1,12 @@
 <footer>
 
-	<p><span id="heart">💚💚</span> ile yapılmıştır.</p>
+	<p id="gun" style="float:right;"><span id="heart">💚</span>ile </p>
+    <script type="text/javascript">
+      var birGun = 24*60*60*1000;
+      var ilkTarih = new Date("April 7, 2016 00:00:00");
+      var tarih = new Date();
+      var fark = Math.round(Math.abs((ilkTarih.getTime() - tarih.getTime())/(birGun)));
+      fark++;
+      document.getElementById("gun").append(fark + ". gün");
 
 </footer>
