@@ -2,7 +2,7 @@
 layout: post
 title:  "C Programlama Dilinden Örnekler"
 image: ''
-date: 2018-07-14 20:23:30
+date: 2018-07-19 15:23:30
 tags:
 - Programlama Dilleri
 description: 'Programlama Dillerine giriş.'
@@ -194,5 +194,5 @@ int main()
 Çıktımız ise şu şekildedir;
   ![](/assets/img/sifir.png)  
     
-*Önümüzdeki sorular vize sınavına yönelik olacaktır.*
+*Önümüzdeki sorular giriş düzeyine yönelik olacaktır.*
 
